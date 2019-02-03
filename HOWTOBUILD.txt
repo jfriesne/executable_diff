@@ -1,6 +1,6 @@
 To build executable_diff under Linux or MacOS/X:
 
-git submodule update --init --sync
+git submodule update --init --recursive
 make
 
 ... when the build completes the executable_diff executable

@@ -1,0 +1,7 @@
+To build executable_diff under Linux or MacOS/X:
+
+git submodule update --init --sync
+make
+
+... when the build completes the executable_diff executable
+should be present in this folder.
